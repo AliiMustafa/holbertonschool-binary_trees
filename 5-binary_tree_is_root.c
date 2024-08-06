@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_is_leaf - function
+ * binary_tree_is_root - function
  * @node: pointer
  * Return: 0 or 1
  */
